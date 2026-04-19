@@ -20,4 +20,7 @@ The images and masks data is provided from LandCover.ai
     pages = {1102-1110}
 }
 
+The dataset chosen is Version 1 with added roads.
+https://landcover.ai.linuxpolska.com/
+
 
