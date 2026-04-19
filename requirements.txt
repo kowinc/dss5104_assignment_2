@@ -1,0 +1,8 @@
+You will need to install the following packages which will be provided at the beginning of the Google Colab document:
+
+!pip install segmentation_models.pytorch
+!pip install albumentationsx
+!pip install torchmetrics
+!pip install ptflops
+
+All the other libraries are imported by Google Gemini 2.5 and may not come from these installations. 
