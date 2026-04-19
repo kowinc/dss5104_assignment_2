@@ -2,8 +2,8 @@
 
 
 1. This code is meant to run on Google Colab. Please use the data provided inside the Colab document, as it contains the original and processed data for this particular assignment. The data is located via a shared Google Drive folder. 
-2. If you wish to train all the models, you will need to run the whole code from the very beginning on the T4 GPU (will take around 30 minutes).
-3. There are a few cells where it is not necessary to run and will be specified in the description above the cell. Therefore, please do not run all the cells at once. 
+2. If you wish to train all the models, you will need to run the whole code from the very beginning on the T4 GPU (will take around 40 minutes). If you want to evaluate the models, the shared folders have the best models saved so there is no need to retrain them again. 
+3. There are a few cells where it is not necessary to run and will be specified in the description above the cell. Therefore, please do not run all the cells at once.
    
 
 
